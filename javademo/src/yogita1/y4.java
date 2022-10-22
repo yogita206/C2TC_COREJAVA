@@ -1,6 +1,6 @@
 package yogita1;
 
-public class y4 {
+public class y4{
 	public static void main(String[] args) {
 		boolean var = false;
 		System.out.println(var);
@@ -9,5 +9,6 @@ public class y4 {
 		System.out.println(var1);
 		
 	}
+
 
 }
