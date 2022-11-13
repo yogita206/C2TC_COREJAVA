@@ -17,7 +17,7 @@ public class QueueEx2 {
 		
 		
 		System.out.println(obj1.peek());
-		System.out.println(obj1.search(500));
+		System.out.println(obj1.earch(100));
 	}
 }
 
