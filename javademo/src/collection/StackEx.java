@@ -14,7 +14,6 @@ public class StackEx {
 		obj.push(500);
 		System.out.println(obj);
 		
-		
 		obj.pop();
 		System.out.println(obj);
 	
